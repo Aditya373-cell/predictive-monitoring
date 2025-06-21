@@ -18,3 +18,4 @@ streamlit run predictive_monitoring_app.py
 ```
 Then open your browser to http://localhost:8501
 >>>>>>> 176c9e4 (Initial commit - predictive monitoring dashboard)
+![Dashboard](https://github.com/user-attachments/assets/b95a2221-2e5d-42ad-9ee5-9c7201d95368)
